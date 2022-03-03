@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://vitoralves2c.github.io/FAQ-Accordion-Card/](https://vitoralves2c.github.io/FAQ-Accordion-Card/)
+- Solution URL: [https://www.frontendmentor.io/solutions/faq-accordion-card-oon2HvFjT](https://www.frontendmentor.io/solutions/faq-accordion-card-oon2HvFjT)
 - Live Site URL: [https://vitoralves2c.github.io/FAQ-Accordion-Card/](https://vitoralves2c.github.io/FAQ-Accordion-Card/)
 
 
