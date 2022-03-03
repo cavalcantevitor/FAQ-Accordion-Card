@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [link](link)
-- Live Site URL: [link](link)
+- Solution URL: [https://vitoralves2c.github.io/FAQ-Accordion-Card/](https://vitoralves2c.github.io/FAQ-Accordion-Card/)
+- Live Site URL: [https://vitoralves2c.github.io/FAQ-Accordion-Card/](https://vitoralves2c.github.io/FAQ-Accordion-Card/)
 
 
 ## My process
